@@ -37,13 +37,13 @@ Start with [CONVENTIONS.md](CONVENTIONS.md) to learn how to read the examples.
 
 ## Guide principles
 
-1. Concepts are explained before commands.
-2. Examples include expected output.
-3. Important configuration files are explained.
-4. Troubleshooting is included where it applies.
-5. Distribution differences are labeled.
-6. Commands that need root are marked.
-7. Destructive commands are flagged with warnings.
-8. Current, maintained tools are preferred over deprecated ones.
-9. Links point to authoritative documentation.
+01. Concepts are explained before commands.
+02. Examples include expected output.
+03. Important configuration files are explained.
+04. Troubleshooting is included where it applies.
+05. Distribution differences are labeled.
+06. Commands that need root are marked.
+07. Destructive commands are flagged with warnings.
+08. Current, maintained tools are preferred over deprecated ones.
+09. Links point to authoritative documentation.
 10. Foundational and advanced material are kept separate.
