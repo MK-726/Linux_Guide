@@ -9,4 +9,4 @@ This part gives you the base for everything else in the guide: what Linux is, ho
 | 3 | [Filesystem Hierarchy & File Management](03-filesystem-and-file-management/README.md) | FHS, links, finding files, text processing, archives, file descriptors |
 | 4 | [Users, Groups, Permissions & Access Control](04-users-groups-and-permissions/README.md) | Accounts, ownership, chmod, ACLs, sudo, capabilities |
 
-**Next part:** Part 2: Linux System Internals & Administration (planned).
+**Next part:** [Part 2: Linux System Internals & Administration](../part-2-system-administration/README.md)

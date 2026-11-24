@@ -20,7 +20,7 @@ Start with [CONVENTIONS.md](CONVENTIONS.md) to learn how to read the examples.
 | Part | Title | Chapters | Status |
 |------|-------|----------|--------|
 | 1 | [Linux Foundations & Command-Line Mastery](part-1-foundations/README.md) | 1–4 | Available |
-| 2 | Linux System Internals & Administration | 5–10 | Planned |
+| 2 | [Linux System Internals & Administration](part-2-system-administration/README.md) | 5–10 | Available |
 | 3 | Networking & Connectivity | 11–13 | Planned |
 | 4 | Linux Security & Hardening | 14–16 | Planned |
 | 5 | Shell Scripting, Programming & Automation | 17–20 | Planned |

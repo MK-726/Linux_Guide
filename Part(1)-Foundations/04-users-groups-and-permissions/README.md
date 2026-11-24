@@ -11,4 +11,4 @@
 | 7 | [sudo and su](07-sudo-and-su.md) | Running commands with elevated privileges |
 | 8 | [Linux Capabilities (Introduction)](08-capabilities-introduction.md) | Splitting root's power into small pieces |
 
-**Previous:** [Chapter 3](../03-filesystem-and-file-management/README.md) | **Next part:** Part 2: Linux System Internals & Administration (planned)
+**Previous:** [Chapter 3](../03-filesystem-and-file-management/README.md) | **Next part:** [Part 2: Linux System Internals & Administration](../../part-2-system-administration/05-system-internals/README.md)
