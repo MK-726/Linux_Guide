@@ -21,7 +21,7 @@ Start with [CONVENTIONS.md](CONVENTIONS.md) to learn how to read the examples.
 |------|-------|----------|--------|
 | 1 | [Linux Foundations & Command-Line Mastery](part-1-foundations/README.md) | 1–4 | Available |
 | 2 | [Linux System Internals & Administration](part-2-system-administration/README.md) | 5–10 | Available |
-| 3 | Networking & Connectivity | 11–13 | Planned |
+| 3 | [Networking & Connectivity](part-3-networking/README.md) | 11–13 | Available |
 | 4 | Linux Security & Hardening | 14–16 | Planned |
 | 5 | Shell Scripting, Programming & Automation | 17–20 | Planned |
 | 6 | Virtualization, Containers & Cloud Infrastructure | 21–24 | Planned |
@@ -37,13 +37,13 @@ Start with [CONVENTIONS.md](CONVENTIONS.md) to learn how to read the examples.
 
 ## Guide principles
 
-01. Concepts are explained before commands.
-02. Examples include expected output.
-03. Important configuration files are explained.
-04. Troubleshooting is included where it applies.
-05. Distribution differences are labeled.
-06. Commands that need root are marked.
-07. Destructive commands are flagged with warnings.
-08. Current, maintained tools are preferred over deprecated ones.
-09. Links point to authoritative documentation.
+1. Concepts are explained before commands.
+2. Examples include expected output.
+3. Important configuration files are explained.
+4. Troubleshooting is included where it applies.
+5. Distribution differences are labeled.
+6. Commands that need root are marked.
+7. Destructive commands are flagged with warnings.
+8. Current, maintained tools are preferred over deprecated ones.
+9. Links point to authoritative documentation.
 10. Foundational and advanced material are kept separate.
