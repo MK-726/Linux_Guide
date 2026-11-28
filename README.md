@@ -22,7 +22,7 @@ Start with [CONVENTIONS.md](CONVENTIONS.md) to learn how to read the examples.
 | 1 | [Linux Foundations & Command-Line Mastery](part-1-foundations/README.md) | 1–4 | Available |
 | 2 | [Linux System Internals & Administration](part-2-system-administration/README.md) | 5–10 | Available |
 | 3 | [Networking & Connectivity](part-3-networking/README.md) | 11–13 | Available |
-| 4 | Linux Security & Hardening | 14–16 | Planned |
+| 4 | [Linux Security & Hardening](part-4-security/README.md) | 14–16 | Available |
 | 5 | Shell Scripting, Programming & Automation | 17–20 | Planned |
 | 6 | Virtualization, Containers & Cloud Infrastructure | 21–24 | Planned |
 | 7 | Production Operations & Reliability | 25–29 | Planned |
